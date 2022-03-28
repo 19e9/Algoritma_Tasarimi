@@ -1,1 +1,1 @@
-Algoritma_Tasarimi
+Algoritma_Tasarimi 0'den
